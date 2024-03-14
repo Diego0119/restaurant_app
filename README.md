@@ -1,16 +1,31 @@
-# restaurant_app
+# Restaurant App 🍽️
 
-A new Flutter project.
+Este proyecto es una aplicación Flutter para encontrar restaurantes cercanos y obtener información sobre ellos.
 
-## Getting Started
+## ¿Qué hace esta aplicación?
 
-This project is a starting point for a Flutter application.
+La aplicación permite a los usuarios buscar restaurantes cercanos utilizando su ubicación actual. Pueden ver una lista de restaurantes, ver detalles sobre cada restaurante, como su nombre, ubicación, número de teléfono, calificación y reseñas. También pueden realizar búsquedas por ciudad o país.
 
-A few resources to get you started if this is your first Flutter project:
+## Características principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Búsqueda de restaurantes cercanos utilizando la ubicación del usuario.
+- Visualización de detalles de restaurantes, incluidos nombre, ubicación, número de teléfono, calificación y reseñas.
+- Búsqueda de restaurantes por ciudad o país.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cómo desplegar la aplicación
+
+1. **Clonar el repositorio:** Ejecuta el siguiente comando en tu terminal para clonar este repositorio:
+
+  git clone https://github.com/tu_usuario/restaurant_app.git
+  
+2. **Instala las dependencias:
+
+   flutter pub get
+
+3. **Ejectua la apliación:
+
+   flutter run
+
+   
+
+   
