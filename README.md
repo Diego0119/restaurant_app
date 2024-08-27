@@ -14,11 +14,11 @@ La aplicación permite a los usuarios buscar restaurantes cercanos utilizando su
 
 ## Cómo desplegar la aplicación 🛫
 
-1. **Clonar el repositorio:** Ejecuta el siguiente comando en tu terminal para clonar este repositorio:
+1. Clonar el repositorio: Ejecuta el siguiente comando en tu terminal para clonar este repositorio:
 
     git clone https://github.com/tu_usuario/restaurant_app.git
   
-2. **Instala las dependencias:
+2. Instala las dependencias:
 
    flutter pub get
 
@@ -26,7 +26,7 @@ La aplicación permite a los usuarios buscar restaurantes cercanos utilizando su
 
    flutter run
 
-4. **Api key:
+4. Api key:
 
    Se necesitara obtener una api key, dentro de esta pagina la podras obtener siguiendo los pasos:
 
