@@ -22,7 +22,7 @@ La aplicación permite a los usuarios buscar restaurantes cercanos utilizando su
 
    flutter pub get
 
-3. **Ejectua la apliación:
+3. Ejectua la aplicación:
 
    flutter run
 
